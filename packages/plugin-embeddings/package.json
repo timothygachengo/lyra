@@ -1,6 +1,6 @@
 {
   "name": "@orama/plugin-embeddings",
-  "version": "3.1.18",
+  "version": "3.2.0",
   "description": "Orama plugin for generating embeddings locally",
   "keywords": [
     "orama",
